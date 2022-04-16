@@ -1,0 +1,36 @@
+Body {
+    background: url("images/background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.tableaufooter {
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    padding: 3px;
+    background-color:bisque;
+    color: white;
+    position: fixed;
+}
+.tableauheader {
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 80px;
+    font-size: 24px;
+    text-align: center;
+    padding: 3px;
+    background-color:bisque;
+    color:black;
+}
+.tableaubody2 {
+    text-align: center;
+    color: blue;
+}
+.contact {
+    text-align: center;
+}
